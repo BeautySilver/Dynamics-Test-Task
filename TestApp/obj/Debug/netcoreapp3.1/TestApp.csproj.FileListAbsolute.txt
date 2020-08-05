@@ -1,0 +1,12 @@
+/Users/artemgubar/Projects/TestApp/TestApp/bin/Debug/netcoreapp3.1/TestApp.deps.json
+/Users/artemgubar/Projects/TestApp/TestApp/bin/Debug/netcoreapp3.1/TestApp.runtimeconfig.json
+/Users/artemgubar/Projects/TestApp/TestApp/bin/Debug/netcoreapp3.1/TestApp.runtimeconfig.dev.json
+/Users/artemgubar/Projects/TestApp/TestApp/bin/Debug/netcoreapp3.1/TestApp.dll
+/Users/artemgubar/Projects/TestApp/TestApp/bin/Debug/netcoreapp3.1/TestApp.pdb
+/Users/artemgubar/Projects/TestApp/TestApp/obj/Debug/netcoreapp3.1/TestApp.csprojAssemblyReference.cache
+/Users/artemgubar/Projects/TestApp/TestApp/obj/Debug/netcoreapp3.1/TestApp.AssemblyInfoInputs.cache
+/Users/artemgubar/Projects/TestApp/TestApp/obj/Debug/netcoreapp3.1/TestApp.AssemblyInfo.cs
+/Users/artemgubar/Projects/TestApp/TestApp/obj/Debug/netcoreapp3.1/TestApp.csproj.CoreCompileInputs.cache
+/Users/artemgubar/Projects/TestApp/TestApp/obj/Debug/netcoreapp3.1/TestApp.dll
+/Users/artemgubar/Projects/TestApp/TestApp/obj/Debug/netcoreapp3.1/TestApp.pdb
+/Users/artemgubar/Projects/TestApp/TestApp/obj/Debug/netcoreapp3.1/TestApp.genruntimeconfig.cache
